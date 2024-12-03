@@ -1,0 +1,17 @@
+20241202	08:54:13	74c0f3c8-765c-4ef9-8149-1dda5734a91e	GET	undefined	/
+20241202	08:54:13	a2c19c36-83f8-42ce-a083-c90f759a84ee	GET	undefined	/css/style.css
+20241202	08:54:13	0f132088-4738-4c71-91c4-bab70dd37e00	GET	undefined	/favicon.ico
+20241202	08:54:28	a6a5dd05-8d67-425a-919a-37f36f6cfc1e	GET	undefined	/register
+20241202	08:54:28	bacff2cd-18b4-4205-b4d4-e3d0a260b66a	GET	undefined	/favicon.ico
+20241202	08:54:49	13027cce-a2c5-499a-82f4-562d4d420369	GET	undefined	/register
+20241202	08:54:49	1e75eb2b-e759-4a33-a9b7-f6a5857b6ac9	GET	undefined	/favicon.ico
+20241202	08:58:22	0205d8af-46dc-4da1-b18d-149a329a7b34	POST	undefined	/register
+20241202	08:58:55	021f2464-31d3-4965-8e69-330182232cfd	POST	undefined	/register
+20241202	08:59:04	d8f66fc9-9a51-4e12-8198-ff0e9701df3f	POST	undefined	/register
+20241202	09:00:30	1dc7f988-a8ea-45c5-8353-8e5da794c4cc	POST	undefined	/auth
+20241202	09:01:52	8e54c25f-48f5-412a-ade1-f11cd1702be1	GET	undefined	/logout
+20241202	19:33:54	0ec41b8c-8b8b-4e5d-9e69-7f333e423cb1	OPTIONS	http://localhost:5173	/register
+20241202	19:35:16	cdfcd937-45a5-4155-9de6-342514cc59f3	OPTIONS	http://localhost:5173	/register
+20241202	19:35:16	91e64050-b421-414c-a348-4519c50bff34	POST	http://localhost:5173	/register
+20241202	20:12:36	f7090bad-5f06-4765-84d2-b33e727aaa80	GET	undefined	/auth
+20241202	20:12:36	d753e857-7730-4279-834b-a1434ec4f8e8	GET	undefined	/favicon.ico

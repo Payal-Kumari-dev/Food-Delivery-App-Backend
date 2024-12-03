@@ -1,0 +1,1 @@
+20241202	19:33:54	dac457d0-15c0-48d4-a469-be3621078445	Error: Not allowed by CORS
